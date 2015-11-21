@@ -5,4 +5,4 @@ An attempt at procedural painting.
 
 
 ### Demo
-* http://theotherside.clanteam.com/
+* http://theotherside.herokuapp.com/
